@@ -1,0 +1,43 @@
+[
+{
+"userName":"Luke_sales_aaa",
+"customerNumber":0,
+"customerString":"Company AAA",
+"roleNumber":1,
+"roleString":"Sales Team"
+},
+{
+"userName":"Luke_customer_aaa",
+"customerNumber":0,
+"customerString":"Company AAA",
+"roleNumber":2,
+"roleString":"Customer"
+},
+{
+"userName":"Luke_company_aaa",
+"customerNumber":0,
+"customerString":"Company AAA",
+"roleNumber":3,
+"roleString":"Admin"
+},
+{
+"userName":"Luke_sales_bbb",
+"customerNumber":1,
+"customerString":"Company BBB",
+"roleNumber":1,
+"roleString":"Sales Team"
+},
+{
+"userName":"Luke_customer_bbb",
+"customerNumber":1,
+"customerString":"Company BBB",
+"roleNumber":2,
+"roleString":"Customer"
+},
+{
+"userName":"Luke_company_bbb",
+"customerNumber":1,
+"customerString":"Company BBB",
+"roleNumber":3,
+"roleString":"Admin"
+}]
